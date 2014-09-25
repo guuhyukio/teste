@@ -6,7 +6,7 @@ import java.util.Iterator;
 
 /**
  *
- * @author Gustavo
+ * @author Gustavo YUKIO
  */
 public class TicketMachine {
 
