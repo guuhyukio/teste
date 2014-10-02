@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 _PWD=`pwd`
 CopyLibs=$_PWD/lib/org-netbeans-modules-java-j2seproject-copylibstask.jar
